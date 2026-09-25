@@ -1,0 +1,2 @@
+xcrap-sdk>=1.1.0
+discord.py>=2.4,<3

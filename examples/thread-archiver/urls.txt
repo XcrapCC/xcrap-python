@@ -1,0 +1,2 @@
+# One post link per line. Any post in a thread works. Lines starting with # are ignored.
+https://x.com/jack/status/20
